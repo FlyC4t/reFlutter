@@ -16,7 +16,7 @@ Key features:
 - Android: arm64, arm32;
 - iOS: arm64;
 - Release: Stable, Beta
-### Install
+### Installs
 ```
 # Linux, Windows, MacOS
 pip3 install reflutter
