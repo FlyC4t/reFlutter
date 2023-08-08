@@ -8,7 +8,7 @@
 This framework helps with Flutter apps reverse engineering using the patched version of the Flutter library which is already compiled and ready for app repacking. This library has snapshot deserialization process modified to allow you perform dynamic analysis in a convenient way.
 
 Key features:
-- `socket.cc` is patched for traffic monitoring and interception;
+- `socket.cc` is patched for traffic monitoring and interception;1
 - `dart.cc` is modified to print classes, functions and some fields;
 - contains minor changes for successfull compilation;
 - if you would like to implement your own patches, there is manual Flutter code change is supported using specially crafted `Dockerfile`
